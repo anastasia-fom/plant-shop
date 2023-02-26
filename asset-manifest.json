@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/plant-shop/static/css/main.c17a5f38.css",
+    "main.js": "/plant-shop/static/js/main.b530979e.js",
+    "static/media/living-room.png": "/plant-shop/static/media/living-room.9479c2e78be5c59d39ba.png",
+    "static/media/WorkSans-SemiBold.eot": "/plant-shop/static/media/WorkSans-SemiBold.c97a92f6685c83483ed5.eot",
+    "static/media/WorkSans-Medium.eot": "/plant-shop/static/media/WorkSans-Medium.ba2fe4b03dbc94bbd55b.eot",
+    "static/media/WorkSans-Bold.eot": "/plant-shop/static/media/WorkSans-Bold.20b7b65c3a78091235d5.eot",
+    "static/media/WorkSans-SemiBold.ttf": "/plant-shop/static/media/WorkSans-SemiBold.8d299d767ac9414c3138.ttf",
+    "static/media/WorkSans-Medium.ttf": "/plant-shop/static/media/WorkSans-Medium.5bdfed2398f920f9e0e9.ttf",
+    "static/media/WorkSans-Bold.ttf": "/plant-shop/static/media/WorkSans-Bold.2756b15652f32e159e35.ttf",
+    "static/media/WorkSans-Regular.eot": "/plant-shop/static/media/WorkSans-Regular.81f1535b5ffb7510ab72.eot",
+    "static/media/WorkSans-Regular.ttf": "/plant-shop/static/media/WorkSans-Regular.132f18245815355f7624.ttf",
+    "static/media/WorkSans-Medium.woff": "/plant-shop/static/media/WorkSans-Medium.8b304d3263a6751c669b.woff",
+    "static/media/WorkSans-Bold.woff": "/plant-shop/static/media/WorkSans-Bold.33c24ad702c7bb7aea79.woff",
+    "static/media/WorkSans-SemiBold.woff": "/plant-shop/static/media/WorkSans-SemiBold.b5a87ca7e09cab2ec82c.woff",
+    "static/media/WorkSans-Regular.woff": "/plant-shop/static/media/WorkSans-Regular.f5d842f3bd416b2a5c20.woff",
+    "static/media/plant1.png": "/plant-shop/static/media/plant1.a2ab0bec11ac8d55bed0.png",
+    "static/media/plant2.png": "/plant-shop/static/media/plant2.97173ba3fac54ef0ae31.png",
+    "static/media/plant3.png": "/plant-shop/static/media/plant3.bea8f01feab21a7f94bb.png",
+    "static/media/WorkSans-Bold.woff2": "/plant-shop/static/media/WorkSans-Bold.7fe28628ec6bbcce27f7.woff2",
+    "static/media/WorkSans-Medium.woff2": "/plant-shop/static/media/WorkSans-Medium.f22b3ad7cc51503b7688.woff2",
+    "static/media/WorkSans-SemiBold.woff2": "/plant-shop/static/media/WorkSans-SemiBold.88a0800415ff79364a2d.woff2",
+    "static/media/WorkSans-Regular.woff2": "/plant-shop/static/media/WorkSans-Regular.38f9d3fa68ba53c0171e.woff2",
+    "static/media/logo.svg": "/plant-shop/static/media/logo.8fc3fa984d59bd63eb40932431b5ed10.svg",
+    "static/media/payment.svg": "/plant-shop/static/media/payment.141851884a24020a8e7ca35de575102b.svg",
+    "static/media/chart.svg": "/plant-shop/static/media/chart.1e7f1e28b266e1a6c28c338d71215e08.svg",
+    "static/media/delivery.svg": "/plant-shop/static/media/delivery.6461ed5bc83a887fe2bb8dd314677d3e.svg",
+    "static/media/support.svg": "/plant-shop/static/media/support.3b1ece11d4b381f005a8fad343ec7e65.svg",
+    "static/media/arrow-right.svg": "/plant-shop/static/media/arrow-right.460616d3c1ded19e7866.svg",
+    "index.html": "/plant-shop/index.html",
+    "main.c17a5f38.css.map": "/plant-shop/static/css/main.c17a5f38.css.map",
+    "main.b530979e.js.map": "/plant-shop/static/js/main.b530979e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17a5f38.css",
+    "static/js/main.b530979e.js"
+  ]
+}
