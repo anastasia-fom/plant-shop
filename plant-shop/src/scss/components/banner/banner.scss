@@ -1,0 +1,14 @@
+.banner {
+  color: $light-text-color;
+  gap: 24px;
+  padding-bottom: 500px;
+
+  p {
+    @extend %font-work-sans-regular;
+    font-size: $font-size-s;
+    text-align: center;
+    max-width: 583px;
+    width: 100%;
+    line-height: 150%;
+  }
+}

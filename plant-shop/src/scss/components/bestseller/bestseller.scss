@@ -1,0 +1,74 @@
+.bestseller {
+  margin-bottom: 182px;
+
+  &__title {
+    width: 30%;
+
+    a {
+      text-decoration: none;
+      color: $secondary-text-color;
+      font-size: $font-size-s;
+
+      &:after {
+        content: url("../../../assets/icons/arrow-right.svg");
+        width: 48px;
+        margin-top: 10px;
+
+        &:hover {
+          width: 55px;
+        }
+      }
+    }
+  }
+
+  &__products {
+    gap: 32px;
+    width: 70%;
+    &-item {
+      max-height: 510px;
+      height: 100%;
+      filter: drop-shadow(0px 4px 30px rgba(221, 218, 218, 0.25));
+      background-color: $color-background-products;
+      width: calc(100% / 3);
+      border-radius: 50px;
+
+      .plant-img{
+        height: 333px;
+        width: 325px;
+        position: relative;
+        top: -80px;
+        z-index: 2;
+      }
+
+      &-description {
+        padding: 26px 38px;
+        background-color: #FFFFFF;
+        border-radius: 50px;
+        gap: 75px;
+
+        &-price {
+          @extend %font-work-sans-medium;
+          font-size: $font-size-m;
+          gap: 84px;
+
+          button {
+            background: $main-gradient;
+            border: transparent;
+            border-radius: 100%;
+            z-index: 1;
+            width: 58px;
+            height: 58px;
+
+            img {
+              width: 30px;
+            }
+
+            &:hover {
+              cursor: pointer;
+            }
+          }
+        }
+      }
+    }
+  }
+}

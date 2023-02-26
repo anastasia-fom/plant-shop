@@ -1,0 +1,33 @@
+.search {
+  margin-top: 42px;
+  input {
+    background: $input-background;
+    border: 1px solid #FFFFFF;
+    backdrop-filter: blur(10px);
+    border-radius: 50px;
+    padding: 24px 308px 24px 30px;
+    max-width: 463px;
+    width: 100%;
+    outline:none;
+
+    &::placeholder{
+      @extend %font-work-sans-regular;
+      color: $light-text-color;
+      font-size: $font-size-xs;
+    }
+  }
+
+  button {
+    background: $main-gradient;
+    border: transparent;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    margin-left: -58px;
+    z-index: 1;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

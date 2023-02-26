@@ -1,0 +1,22 @@
+.header {
+  padding: 62px 120px 40px;
+
+  &__navigation {
+    a {
+      @extend %font-work-sans-regular;
+      font-size: $font-size-s;
+      color: $light-text-color;
+      text-decoration: none;
+      margin-left: 68px;
+
+      &:hover {
+        @extend %font-work-sans-semibold;
+        background: $main-gradient;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+      }
+    }
+  }
+}

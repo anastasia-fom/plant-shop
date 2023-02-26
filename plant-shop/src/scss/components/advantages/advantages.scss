@@ -1,0 +1,24 @@
+.advantages {
+  gap: 200px;
+  padding: 105px 120px 145px 120px;
+
+  &__element {
+    width: calc(100% / 3);
+    img{
+      margin-right: 34.5px;
+      max-width: 77px;
+      width: 77px;
+    }
+
+    &-description{
+      max-width: 269px;
+      width: 100%;
+      @extend %font-work-sans-medium;
+
+      p {
+        color: $description-text-color;
+        font-size: $font-size-xs;
+      }
+    }
+  }
+}
